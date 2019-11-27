@@ -1,2 +1,2 @@
-# Fayet-sCourse
+# Fayet's Course
 Andrii Melnychuk
