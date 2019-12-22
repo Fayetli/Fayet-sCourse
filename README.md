@@ -14,9 +14,11 @@ The course has 11 stages, 18 hours of video, 2 articles and 63 attachments.
 |**3**|Subroutines: Reusable Blocks of Code|Functions, Return Values, Function Parameters, Headers and Prototypes|40 minutes|[cpp1](practiceFiles/Stage3/stg3prc1/stg3prc1/stg3prc1.cpp) [h1](practiceFiles/Stage3/stg3prc1/stg3prc1/utilit.h)|done|29.11.19|
 |**4**|Object Oriented Coding|Classes, Data Members, C++ Constructors and Destructors, C++ Getters and Setters, C++ String Streams, Overloading Constructors, The "this" Keyword, Constructor Initialization Lists|2 hours|[cpp1](practiceFiles/Stage4/stg4prc1/stg4prc1/stg4prc1.cpp) [h1](practiceFiles/Stage4/stg4prc1/stg4prc1/Cat.h) [cpp1.1](practiceFiles/Stage4/stg4prc1/stg4prc1/Cat.cpp) [cpp2](practiceFiles/Stage4/stg4prc2/stg4prc2/stg4prc2.cpp) [h2](practiceFiles/Stage4/stg4prc2/stg4prc2/Person.h) [cpp2.1](practiceFiles/Stage4/stg4prc2/stg4prc2/Person.cpp)|done|03.12.19|
 |**5**|Pointers and Memory|Pointers, Arithmetic, Pointers and Arrays, Pointer Arithmetic, Char Arrays, Reversing a String, References, The "const" Keyword, Copy Constructors, The New Operator, Returning Objects from Functions, Allocating Memory, Arrays and Functions, Namespaces|3 hours|[cpp1](practiceFiles/Stage5/stg5prc1/stg5prc1/stg5prc1.cpp) [cpp2](practiceFiles/Stage5/stg5prc2/stg5prc2/stg5prc2.cpp)  [cpp3](practiceFiles/Stage5/stg5prc3/stg5prc3/stg5prc3.cpp) [cpp4](practiceFiles/Stage5/stg5prc4/stg5prc4/stg5prc4.cpp) [cpp5](practiceFiles/Stage5/stg5prc5/stg5prc5/stg5prc5.cpp) [cpp5.1](practiceFiles/Stage5/stg5prc5/stg5prc5/Animal.cpp) [h5](practiceFiles/Stage5/stg5prc5/stg5prc5/Animal.h) [cpp5.2](practiceFiles/Stage5/stg5prc5/stg5prc5/Cat.cpp) [h5.1](practiceFiles/Stage5/stg5prc5/stg5prc5/Cat.h)|done|11.12.19|
-|**6**|Inheritance|Inheritance, Inheritance, Constructor Inheritance|30 minutes||||
-|**7**|Odds and Ends: Twos Complement and Static Variables|Twos Complement, Static Keyword|||||
-|**8**|Developing a Program: The Particle Fire Simulation||||||
+|**6**|Inheritance|Inheritance, Inheritance, Constructor Inheritance|30 minutes|[link](https://github.com/Fayetli/Fayet-sOOPproject)|done|15.12.19|
+|**7**|Odds and Ends: Twos Complement and Static Variables|Twos Complement, Static Keyword|40 minutes|---|done|16.12.19|
+|**8**|Developing a Program: The Particle Fire Simulation|Particle Fire Explosion, Using C++ Libriaries, Aquiring Simple Direct Media Layer, A Basic SDL Program, Creating an SDL Window, Textures, Renderers and Buffers, Setting Pixel Colors, Creating the Screen Class, Bit Shifing and Colors, Adding a Set Pixel Method, Animating Colors, Creating Particles, Animating Particles, Creating an Explosion, Ensuring Constant Speed, Bitwise "And", Implementing Box Blur, Tweaking Particle Motion|5 hours||||
+|**9**|Conclusion||30 minutes||||
+|**10**|Bonus||50 minutes||||
 
 
 # Others
