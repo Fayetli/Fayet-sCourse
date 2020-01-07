@@ -8,15 +8,6 @@
 
 using namespace std;
 
-
-void applyTexture(SDL_Renderer* renderer, SDL_Texture* texture, int x, int y) {
-	SDL_Rect pos;
-	pos.x = x;
-	pos.y = y;
-	SDL_QueryTexture(texture, NULL, NULL, &pos.w, &pos.h);
-	SDL_RenderCopy(renderer, texture, NULL, &pos);
-}
-
 int main(int argc, char** argv) {
 
 	const int SCREEN_HEIGHT = 640;
