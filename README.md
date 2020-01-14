@@ -16,10 +16,10 @@ The course has 11 stages, 18 hours of video, 2 articles and 63 attachments.
 |**5**|Pointers and Memory|Pointers, Arithmetic, Pointers and Arrays, Pointer Arithmetic, Char Arrays, Reversing a String, References, The "const" Keyword, Copy Constructors, The New Operator, Returning Objects from Functions, Allocating Memory, Arrays and Functions, Namespaces|3 hours|[cpp1](practiceFiles/Stage5/stg5prc1/stg5prc1/stg5prc1.cpp) [cpp2](practiceFiles/Stage5/stg5prc2/stg5prc2/stg5prc2.cpp)  [cpp3](practiceFiles/Stage5/stg5prc3/stg5prc3/stg5prc3.cpp) [cpp4](practiceFiles/Stage5/stg5prc4/stg5prc4/stg5prc4.cpp) [cpp5](practiceFiles/Stage5/stg5prc5/stg5prc5/stg5prc5.cpp) [cpp5.1](practiceFiles/Stage5/stg5prc5/stg5prc5/Animal.cpp) [h5](practiceFiles/Stage5/stg5prc5/stg5prc5/Animal.h) [cpp5.2](practiceFiles/Stage5/stg5prc5/stg5prc5/Cat.cpp) [h5.1](practiceFiles/Stage5/stg5prc5/stg5prc5/Cat.h)|done|11.12.19|
 |**6**|Inheritance|Inheritance, Inheritance, Constructor Inheritance|30 minutes|[link](https://github.com/Fayetli/Fayet-sOOPproject)|done|15.12.19|
 |**7**|Odds and Ends: Twos Complement and Static Variables|Twos Complement, Static Keyword|40 minutes|---|done|16.12.19|
-|**8**|Developing a Program: The Particle Fire Simulation|Particle Fire Explosion, Using C++ Libriaries, Aquiring Simple Direct Media Layer, A Basic SDL Program, Creating an SDL Window, Textures, Renderers and Buffers, Setting Pixel Colors, Creating the Screen Class, Bit Shifing and Colors, Adding a Set Pixel Method, Animating Colors, Creating Particles, Animating Particles, Creating an Explosion, Ensuring Constant Speed, Bitwise "And", Implementing Box Blur, Tweaking Particle Motion|5 hours||||
-|**9**|Conclusion||30 minutes||||
-|**10**|Bonus||50 minutes||||
+|**8**|Developing a Program: The Particle Fire Simulation|Particle Fire Explosion, Using C++ Libriaries, Aquiring Simple Direct Media Layer, A Basic SDL Program, Creating an SDL Window, Textures, Renderers and Buffers, Setting Pixel Colors, Creating the Screen Class, Bit Shifing and Colors, Adding a Set Pixel Method, Animating Colors, Creating Particles, Animating Particles, Creating an Explosion, Ensuring Constant Speed, Bitwise "And", Implementing Box Blur, Tweaking Particle Motion|5 hours|[dir](practiceFiles/Stage8/)|done|12.01.19|
+|**9**|Conclusion||30 minutes|---|done|14.01.19|
+|**10**|Bonus||50 minutes|---|done|14.01.19|
 
 
 # Others
-My others practice files: [dir](practiceFiles/practice), [cpp1](practiceFiles/practice/Practice/project2/project2.cpp).
+My others projects: [L_I_N_K](https://github.com/Fayetli/Fayet-sProjects).
