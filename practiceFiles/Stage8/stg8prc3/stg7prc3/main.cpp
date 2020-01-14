@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
 			break;
 		}
 	}*/
-	buffer[0] = 0xFFFFFFFF;
+	//buffer[0] = 0xFFFFFFFF;
 
 	SDL_UpdateTexture(texture, NULL, buffer, SCREEN_WIDTH * sizeof(Uint32));
 	SDL_RenderClear(renderer);
